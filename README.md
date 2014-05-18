@@ -7,4 +7,6 @@ My Personal SETUP
 ### Essencial
 
 * Ubuntu Newest version installed? Check for update
-* Install Node.js [[Download](http://nodejs.org/download/)]
+* Install NodeJS [[Download](http://nodejs.org/download/)]
+* Install NPM
+* Install GruntJS [[Download](http://gruntjs.com/getting-started#installing-the-cli)]
