@@ -11,6 +11,7 @@ My Personal SETUP
 * Install NodeJS Legacy `sudo apt-get install nodejs-legacy`
 * Install NPM `sudo apt-get install npm`
 * Install GruntJS `sudo npm install -g grunt-cli`
+* Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
 
 ### Other Applications
 
