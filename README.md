@@ -12,6 +12,7 @@ My Personal SETUP
 * Install NPM `sudo apt-get install npm`
 * Install GruntJS `sudo npm install -g grunt-cli`
 * Install Bower `sudo npm install -g bower`
+* Install Express `sudo npm install -g express`
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
 
