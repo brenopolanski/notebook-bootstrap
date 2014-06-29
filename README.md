@@ -22,3 +22,4 @@ My Personal SETUP
   - Install package control [[Download](https://sublime.wbond.net/installation#st3)]
 * Install Atom [[Download](https://gist.github.com/brenopolanski/35b8223d5297e11e1afc)]
 * Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)]
+* Install Google Chrome [[Download](https://www.google.com.br/chrome/index.html?hl=pt-BR&brand=CHNG&utm_source=pt-BR-hpp&utm_medium=hpp&utm_campaign=pt-BR)]
