@@ -24,3 +24,4 @@ My Personal SETUP
 * Install Atom [[Download](https://gist.github.com/brenopolanski/35b8223d5297e11e1afc)]
 * Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)]
 * Install Google Chrome [[Download](https://www.google.com.br/chrome/index.html?hl=pt-BR&brand=CHNG&utm_source=pt-BR-hpp&utm_medium=hpp&utm_campaign=pt-BR)]
+* Install Gnome Shell [[Download](https://gist.github.com/brenopolanski/2b0596c05d9cf6efc37d)]
