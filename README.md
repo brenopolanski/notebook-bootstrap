@@ -15,6 +15,7 @@ My Personal SETUP
 * Install Bower `sudo npm install -g bower`
 * Install Express `sudo npm install -g express`
 * Install Ghostscript `sudo apt-get install ghostscript`
+* Install Fuck You [[Download](https://github.com/robotlolita/fuck-you)] or `sudo npm install -g fuck-you`
 * Install XAMPP [[Download](https://www.apachefriends.org/pt_br/download.html)]
 * Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
 
