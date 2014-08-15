@@ -27,3 +27,9 @@ My Personal SETUP
 * Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)]
 * Install Google Chrome [[Download](https://www.google.com.br/chrome/index.html?hl=pt-BR&brand=CHNG&utm_source=pt-BR-hpp&utm_medium=hpp&utm_campaign=pt-BR)]
 * Install Gnome Shell [[Download](https://gist.github.com/brenopolanski/2b0596c05d9cf6efc37d)]
+
+### Sublime Packages and Snippets
+
+#### Packages
+
+* Sublime Text 3 - Markmon [[Download](https://github.com/yyjhao/sublime-text-markmon)]
