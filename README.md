@@ -32,4 +32,4 @@ My Personal SETUP
 
 #### Packages
 
-* Sublime Text 3 - Markmon [[Download](https://github.com/yyjhao/sublime-text-markmon)]
+* Sublime Text 2/3 Markdown Preview [[Download](https://github.com/revolunet/sublimetext-markdown-preview)]
