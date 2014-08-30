@@ -34,3 +34,4 @@ My Personal SETUP
 #### Packages
 
 * Sublime Text 2/3 Markdown Preview [[Download](https://github.com/revolunet/sublimetext-markdown-preview)]
+* Color Highlighter [[Download](https://github.com/Monnoroch/ColorHighlighter)]
