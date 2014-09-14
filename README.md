@@ -35,3 +35,20 @@ My Personal SETUP
 
 * Sublime Text 2/3 Markdown Preview [[Download](https://github.com/revolunet/sublimetext-markdown-preview)]
 * Color Highlighter [[Download](https://github.com/Monnoroch/ColorHighlighter)]
+
+### Chrome application and extension
+
+#### Application
+
+* Dimensions Legacy [[Download](https://chrome.google.com/webstore/detail/dimensions-legacy/hdmihohhdcbejdkidbfijmfehjbnmifk?utm_source=chrome-ntp-icon)]
+* Edge: The Web Ruler [[Download](https://chrome.google.com/webstore/detail/edge-the-web-ruler/njlkegdphefeellhaongiopcfgcinikh?utm_source=chrome-ntp-icon)]
+* Small PDF [[Download](https://chrome.google.com/webstore/detail/merge-pdf-smallpdfcom/nbhibnjbbdkflfklbdpgbifkhcielgcm?utm_source=chrome-ntp-icon)]
+* Postman - REST Client [[Download](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?utm_source=chrome-ntp-icon)]
+
+#### Extension
+
+* ColorZilla [[Download](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=chrome-ntp-icon)]
+* GitHub Notifier [[Download](https://chrome.google.com/webstore/detail/github-notifier/lmjdlojahmbbcodnpecnjnmlddbkjhnn?utm_source=chrome-ntp-icon)]
+* Strict Workflow [[Download](https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd?utm_source=chrome-ntp-icon)]
+* AdBlock [[Download](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-ntp-icon)]
+* Merge Windows [[Download](https://chrome.google.com/webstore/detail/merge-windows/kbpinmnkhfkoidiinmapkhifnfoiklkb?utm_source=chrome-ntp-icon)]
