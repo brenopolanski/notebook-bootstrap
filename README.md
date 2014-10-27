@@ -35,6 +35,8 @@ My Personal SETUP
 
 * Sublime Text 2/3 Markdown Preview [[Download](https://github.com/revolunet/sublimetext-markdown-preview)]
 * Color Highlighter [[Download](https://github.com/Monnoroch/ColorHighlighter)]
+* CSS comments [[Download](https://github.com/brenopolanski/css-comments-sublime-snippets)]
+* JavaScript and CoffeeScript Console snippets [[Download](https://github.com/caiogondim/js-console-sublime-snippets)]
 
 ### Chrome application and extension
 
