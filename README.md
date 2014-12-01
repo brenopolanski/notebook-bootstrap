@@ -37,6 +37,7 @@ My Personal SETUP
 * Color Highlighter [[Download](https://github.com/Monnoroch/ColorHighlighter)]
 * CSS comments [[Download](https://github.com/brenopolanski/css-comments-sublime-snippets)]
 * JavaScript and CoffeeScript Console snippets [[Download](https://github.com/caiogondim/js-console-sublime-snippets)]
+* CSScomb for Sublime Text [[Download](https://github.com/csscomb/sublime-csscomb)]
 
 ### Chrome application and extension
 
