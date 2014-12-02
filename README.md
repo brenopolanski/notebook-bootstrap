@@ -14,6 +14,7 @@ My Personal SETUP
 * Install GruntJS `sudo npm install -g grunt-cli`
 * Install Bower `sudo npm install -g bower`
 * Install Express `sudo npm install -g express`
+* Install CSScomb `sudo npm install -g csscomb`
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Fuck You [[Download](https://github.com/robotlolita/fuck-you)] or `sudo npm install -g fuck-you`
