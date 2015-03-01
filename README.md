@@ -20,6 +20,8 @@ My Personal SETUP
 * Install Fuck You [[Download](https://github.com/robotlolita/fuck-you)] or `sudo npm install -g fuck-you`
 * Install XAMPP [[Download](https://www.apachefriends.org/pt_br/download.html)]
 * Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
+  - Add permission in file: `chmod 400 ~/.ssh/id_rsa`
+  - Test the connection: `ssh -T git@github.com`
 
 ### Other Applications
 
