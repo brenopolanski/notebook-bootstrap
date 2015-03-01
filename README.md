@@ -25,8 +25,8 @@ My Personal SETUP
 
 * Install Sublime Text 3 [[Download](http://www.sublimetext.com/3)]
   - Install package control [[Download](https://sublime.wbond.net/installation#st3)]
-* Install Atom [[Download](https://gist.github.com/brenopolanski/35b8223d5297e11e1afc)]
-* Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)]
+* Install Atom [[Download](https://gist.github.com/brenopolanski/35b8223d5297e11e1afc)] (optional)
+* Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)] (optional)
 * Install Google Chrome [[Download](https://www.google.com.br/chrome/index.html?hl=pt-BR&brand=CHNG&utm_source=pt-BR-hpp&utm_medium=hpp&utm_campaign=pt-BR)]
 * Install Gnome Shell [[Download](https://gist.github.com/brenopolanski/2b0596c05d9cf6efc37d)]
 
