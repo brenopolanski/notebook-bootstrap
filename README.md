@@ -20,6 +20,7 @@ My Personal SETUP
 * Install Vim `sudo apt-get install vim`
 * Install Play on Linux `sudo apt-get install playonlinux`
 * Install Simple Screen Recorder [[Download](http://www.webupd8.org/2013/06/simplescreenrecorder-powerful-screen.html)]
+* gPodder Podcast Client [[Download](https://apps.ubuntu.com/cat/applications/precise/gpodder/)]
 * Install Fuck You [[Download](https://github.com/robotlolita/fuck-you)] or `sudo npm install -g fuck-you`
 * Install XAMPP [[Download](https://www.apachefriends.org/pt_br/download.html)] [[How do I install XAMPP?](https://www.apachefriends.org/faq_linux.html)]
 * Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
