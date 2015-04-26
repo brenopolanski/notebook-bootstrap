@@ -15,7 +15,7 @@ My Personal SETUP
 * Install Bower `sudo npm install -g bower`
 * Install Express `sudo npm install -g express`
 * Install CSScomb `sudo npm install -g csscomb`
-* Install ApiDoc.js `sudo npm install -g apidoc`
+* Install YUIDoc `sudo npm install -g yuidocjs`
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Simple Screen Recorder [[Download](http://www.webupd8.org/2013/06/simplescreenrecorder-powerful-screen.html)]
