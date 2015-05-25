@@ -66,3 +66,5 @@ My Personal SETUP
 
 ### LibreOffice extension
 * Code Colorizer Formatter [[Download](http://extensions.libreoffice.org/extension-center/code-colorizer-formatter)]
+* CoGrOO [[Download](http://cogroo.sourceforge.net/download/current.html)]
+  - `sudo apt-get install libreoffice-java-common default-jre`
