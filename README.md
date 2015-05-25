@@ -62,3 +62,7 @@ My Personal SETUP
 * Strict Workflow [[Download](https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd?utm_source=chrome-ntp-icon)]
 * AdBlock [[Download](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-ntp-icon)]
 * Merge Windows [[Download](https://chrome.google.com/webstore/detail/merge-windows/kbpinmnkhfkoidiinmapkhifnfoiklkb?utm_source=chrome-ntp-icon)]
+
+
+### LibreOffice extension
+* Code Colorizer Formatter [[Download](http://extensions.libreoffice.org/extension-center/code-colorizer-formatter)]
