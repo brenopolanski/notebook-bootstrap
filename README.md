@@ -47,6 +47,7 @@ My Personal SETUP
 * CSS comments [[Download](https://github.com/brenopolanski/css-comments-sublime-snippets)]
 * JavaScript and CoffeeScript Console snippets [[Download](https://github.com/caiogondim/js-console-sublime-snippets)]
 * CSScomb for Sublime Text [[Download](https://github.com/csscomb/sublime-csscomb)]
+* PlainTasks [[Download](https://github.com/aziz/PlainTasks)]
 
 ### Chrome application and extension
 
