@@ -19,6 +19,7 @@ My Personal SETUP
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Play on Linux `sudo apt-get install playonlinux`
+* Install Maven `sudo apt-get install maven`
 * Install Tree `sudo apt-get install tree`
   - Creating a file TXT: `tree > tree.txt`
 * Install Simple Screen Recorder [[Download](http://www.webupd8.org/2013/06/simplescreenrecorder-powerful-screen.html)]
