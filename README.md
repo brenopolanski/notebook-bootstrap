@@ -14,6 +14,7 @@ My Personal SETUP
 * Install GruntJS `sudo npm install -g grunt-cli`
 * Install Bower `sudo npm install -g bower`
 * Install Express `sudo npm install -g express`
+* Install Express Generator `sudo npm install -g express-generator`
 * Install CSScomb `sudo npm install -g csscomb`
 * Install YUIDoc `sudo npm install -g yuidocjs`
 * Install Ghostscript `sudo apt-get install ghostscript`
