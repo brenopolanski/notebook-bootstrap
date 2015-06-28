@@ -17,6 +17,7 @@ My Personal SETUP
 * Install Express Generator `sudo npm install -g express-generator`
 * Install CSScomb `sudo npm install -g csscomb`
 * Install YUIDoc `sudo npm install -g yuidocjs`
+* Install Harmonic `sudo npm install -g harmonic`
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Maven `sudo apt-get install maven`
