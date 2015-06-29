@@ -12,6 +12,7 @@ My Personal SETUP
 * Install NodeJS Legacy `sudo apt-get install nodejs-legacy`
 * Install NPM `sudo apt-get install npm`
 * Install GruntJS `sudo npm install -g grunt-cli`
+* Install Gulp `sudo npm install -g gulp`
 * Install Bower `sudo npm install -g bower`
 * Install Express `sudo npm install -g express`
 * Install Express Generator `sudo npm install -g express-generator`
@@ -22,6 +23,9 @@ My Personal SETUP
 * Install Maven `sudo apt-get install maven`
 * Install Tree `sudo apt-get install tree`
   - Creating a file TXT: `tree > tree.txt`
+* Install Ruby `sudo apt-get install ruby-full`
+  - As of writing, the ruby-full package provides Ruby 1.9.3, which is an old stable release, on Debian and Ubuntu.
+* Install Jekyll `sudo gem install jekyll`
 * Install Simple Screen Recorder [[Download](http://www.webupd8.org/2013/06/simplescreenrecorder-powerful-screen.html)]
 * gPodder Podcast Client [[Download](https://apps.ubuntu.com/cat/applications/precise/gpodder/)]
 * Install Fuck You [[Download](https://github.com/robotlolita/fuck-you)] or `sudo npm install -g fuck-you`
