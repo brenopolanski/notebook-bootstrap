@@ -18,6 +18,7 @@ My Personal SETUP
 * Install Express Generator `sudo npm install -g express-generator`
 * Install CSScomb `sudo npm install -g csscomb`
 * Install YUIDoc `sudo npm install -g yuidocjs`
+* Install Node Webkit Builder `sudo npm install -g node-webkit-builder`
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Maven `sudo apt-get install maven`
