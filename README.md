@@ -8,6 +8,7 @@ My Personal SETUP
 
 * Ubuntu Newest version installed? Check for update
 * Install Git `sudo apt-get install git`
+* Install gitk `sudo apt-get install gitk`
 * Install NodeJS [[Download](http://nodejs.org/download/)] or `sudo apt-get install nodejs`
 * Install NodeJS Legacy `sudo apt-get install nodejs-legacy`
 * Install NPM `sudo apt-get install npm`
