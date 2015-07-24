@@ -24,8 +24,8 @@ My Personal SETUP
 * Install Vim `sudo apt-get install vim`
 * Install Maven `sudo apt-get install maven`
 * Install youtube-dl-mp3 `sudo apt-get install youtube-dl wget ffmpeg lame`
-  - Installation youtube-dl-mp3: [https://github.com/jweslley/youtube-dl-mp3#installation](https://github.com/jweslley/youtube-dl-mp3#installation)
-  - FFMPEG no Ubuntu 14.04 64 bits: [https://gist.github.com/brenopolanski/5676b8d50c62b1630d38](https://gist.github.com/brenopolanski/5676b8d50c62b1630d38)
+  - Installation youtube-dl-mp3 [[Download](https://github.com/jweslley/youtube-dl-mp3#installation)]
+  - FFMPEG no Ubuntu 14.04 64 bits [[Download](https://gist.github.com/brenopolanski/5676b8d50c62b1630d38)] 
 * Install Tree `sudo apt-get install tree`
   - Creating a file TXT: `tree > tree.txt`
 * Install Ruby `sudo apt-get install ruby-full`
@@ -59,6 +59,7 @@ My Personal SETUP
 * JavaScript and CoffeeScript Console snippets [[Download](https://github.com/caiogondim/js-console-sublime-snippets)]
 * CSScomb for Sublime Text [[Download](https://github.com/csscomb/sublime-csscomb)]
 * PlainTasks [[Download](https://github.com/aziz/PlainTasks)]
+* Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
 
 ### Chrome application and extension
 
