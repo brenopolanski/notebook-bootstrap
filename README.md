@@ -23,6 +23,9 @@ My Personal SETUP
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Maven `sudo apt-get install maven`
+* Install youtube-dl-mp3 `sudo apt-get install youtube-dl wget ffmpeg lame`
+  - Installation youtube-dl-mp3: [https://github.com/jweslley/youtube-dl-mp3#installation](https://github.com/jweslley/youtube-dl-mp3#installation)
+  - FFMPEG NO UBUNTU 14.04 64 BITS: [https://gist.github.com/brenopolanski/5676b8d50c62b1630d38](https://gist.github.com/brenopolanski/5676b8d50c62b1630d38)
 * Install Tree `sudo apt-get install tree`
   - Creating a file TXT: `tree > tree.txt`
 * Install Ruby `sudo apt-get install ruby-full`
