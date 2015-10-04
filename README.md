@@ -14,6 +14,7 @@ My Personal SETUP
 * Install NPM `sudo apt-get install npm`
 * Install GruntJS `sudo npm install -g grunt-cli`
 * Install Gulp `sudo npm install -g gulp`
+* Install Gulp `sudo npm install -g webpack`
 * Install Bower `sudo npm install -g bower`
 * Install Express `sudo npm install -g express`
 * Install Express Generator `sudo npm install -g express-generator`
