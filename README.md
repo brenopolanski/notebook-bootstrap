@@ -22,6 +22,7 @@ My Personal SETUP
 * Install YUIDoc `sudo npm install -g yuidocjs`
 * Install Node Webkit Builder `sudo npm install -g node-webkit-builder`
 * Install Stylus `sudo npm install -g stylus`
+* Install Watchy `sudo npm install -g watchy`
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Maven `sudo apt-get install maven`
