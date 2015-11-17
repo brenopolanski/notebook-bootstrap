@@ -83,6 +83,7 @@ My Personal SETUP
 * AdBlock [[Download](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-ntp-icon)]
 * Merge Windows [[Download](https://chrome.google.com/webstore/detail/merge-windows/kbpinmnkhfkoidiinmapkhifnfoiklkb?utm_source=chrome-ntp-icon)]
 * GitHub Linker [[Download](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)]
+* React Developer Tools [[Download](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)]
 
 ### LibreOffice extension
 * Code Colorizer Formatter [[Download](http://extensions.libreoffice.org/extension-center/code-colorizer-formatter)]
