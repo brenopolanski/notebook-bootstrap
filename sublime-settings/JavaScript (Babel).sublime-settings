@@ -1,3 +1,11 @@
 {
-  "rulers": [80]
+	"extensions":
+	[
+		"jsx",
+		"js"
+	],
+	"rulers":
+	[
+		80
+	]
 }
