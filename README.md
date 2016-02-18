@@ -18,6 +18,7 @@ My Personal SETUP
 * Install Bower `sudo npm install -g bower`
 * Install Express `sudo npm install -g express`
 * Install Express Generator `sudo npm install -g express-generator`
+* Install nodemon `sudo npm install -g nodemon`
 * Install CSScomb `sudo npm install -g csscomb`
 * Install YUIDoc `sudo npm install -g yuidocjs`
 * Install Node Webkit Builder `sudo npm install -g node-webkit-builder`
