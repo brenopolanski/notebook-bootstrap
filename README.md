@@ -6,12 +6,14 @@ My Personal SETUP
 
 ### Essencial
 
-* Ubuntu Newest version installed? Check for update
+* Fedora Newest version installed? Check for update
 * Install Git `sudo apt-get install git`
 * Install gitk `sudo apt-get install gitk`
 * Install NodeJS [[Download](http://nodejs.org/download/)] or `sudo apt-get install nodejs`
 * Install NodeJS Legacy `sudo apt-get install nodejs-legacy`
+* Enterprise Linux and Fedora [[Download](https://nodejs.org/en/download/package-manager/#enterprise-linux-and-fedora)]
 * Install NPM `sudo apt-get install npm`
+  - To upgrade, run: `sudo npm install npm@latest -g`
 * Install GruntJS `sudo npm install -g grunt-cli`
 * Install Gulp `sudo npm install -g gulp`
 * Install Gulp `sudo npm install -g webpack`
