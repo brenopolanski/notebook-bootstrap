@@ -53,7 +53,7 @@ My Personal SETUP
 ### Other Applications
 
 * Install Sublime Text 3 [[Download](http://www.sublimetext.com/3)]
-* Install Sublime Text 3 (x64) on Fedora [[Download](https://gist.github.com/brenopolanski/dc14874c1540faf9e852)]
+* Install Sublime Text 3 (x64) on Fedora [[Download](http://www.simonewebdesign.it/install-sublime-text-3-on-fedora-20/)]
   - Install package control [[Download](https://sublime.wbond.net/installation#st3)]
 * Install Atom [[Download](https://gist.github.com/brenopolanski/35b8223d5297e11e1afc)] - (optional)
 * Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)] - (optional)
