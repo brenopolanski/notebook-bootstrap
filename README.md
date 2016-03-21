@@ -49,6 +49,8 @@ My Personal SETUP
 * Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
   - Add permission in file: `chmod 400 ~/.ssh/id_rsa`
   - Test the connection: `ssh -T git@github.com`
+  - Setting your username in Git [[Link](https://help.github.com/articles/setting-your-username-in-git/)]
+  - Setting your email in Git [[Link](https://help.github.com/articles/setting-your-email-in-git/)]
 
 ### Other Applications
 
