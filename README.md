@@ -30,7 +30,9 @@ My Personal SETUP
 * Install Vim `sudo apt-get install vim`
 * Install Maven `sudo apt-get install maven`
 * Install Zsh `sudo dnf install zsh`
-  - `sudo sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` 
+  - `sudo sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+  - Theme Bullet Train [[Download](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)]
+  - Powerline fonts [[Download](https://github.com/powerline/fonts)]
 * Install MongoDB [[Download](https://gist.github.com/brenopolanski/861971f972b4c4f11443)]
 * Install youtube-dl-mp3 `sudo apt-get install youtube-dl wget ffmpeg lame`
   - Installation youtube-dl-mp3 [[Download](https://github.com/jweslley/youtube-dl-mp3#installation)]
@@ -51,6 +53,7 @@ My Personal SETUP
 ### Other Applications
 
 * Install Sublime Text 3 [[Download](http://www.sublimetext.com/3)]
+* Install Sublime Text 3 (x64) on Fedora [[Download](https://gist.github.com/brenopolanski/dc14874c1540faf9e852)]
   - Install package control [[Download](https://sublime.wbond.net/installation#st3)]
 * Install Atom [[Download](https://gist.github.com/brenopolanski/35b8223d5297e11e1afc)] - (optional)
 * Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)] - (optional)
