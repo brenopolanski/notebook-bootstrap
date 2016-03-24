@@ -75,6 +75,7 @@ My Personal SETUP
 * CSScomb for Sublime Text [[Download](https://github.com/csscomb/sublime-csscomb)]
 * PlainTasks [[Download](https://github.com/aziz/PlainTasks)]
 * Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
+* GitGutter [[Download](https://github.com/jisaacks/GitGutter)]
 
 ### Chrome application and extension
 
