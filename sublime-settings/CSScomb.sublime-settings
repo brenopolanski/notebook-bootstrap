@@ -1,79 +1,35 @@
 {
+    // If plugin has trouble finding Node.js, replace this string with path
+    // to your `node` bin
+    "node-path" : ":/usr/local/bin",
+
     // Full list of supported options and acceptable values can be found here:
     // https://github.com/csscomb/csscomb.js/blob/master/doc/options.md
     "config": {
-
-        // Whether to add a semicolon after the last value/mixin.
         "always-semicolon": true,
-
-        // Set indent for code inside blocks, including media queries and nested rules.
-        "block-indent": 4,
-
-        // Unify case of hexadecimal colors.
+        "block-indent": 2,
         "color-case": "lower",
-
-        // Whether to expand hexadecimal colors or use shorthands.
         "color-shorthand": true,
-
-        // Unify case of element selectors.
         "element-case": "lower",
-
-        // Add/remove line break at EOF.
         "eof-newline": true,
-
-        // Add/remove leading zero in dimensions.
         "leading-zero": false,
-
-        // Unify quotes style.
         "quotes": "double",
-
-        // Remove all rulesets that contain nothing but spaces.
         "remove-empty-rulesets": true,
-
-        // Set space after `:` in declarations.
         "space-after-colon": " ",
-
-        // Set space after combinator (for example, in selectors like `p > a`).
         "space-after-combinator": " ",
-
-        // Set space after `{`.
         "space-after-opening-brace": "\n",
-
-        // Set space after selector delimiter.
         "space-after-selector-delimiter": "\n",
-
-        // Set space before `}`.
         "space-before-closing-brace": "\n",
-
-        // Set space before `:` in declarations.
         "space-before-colon": "",
-
-        // Set space before combinator (for example, in selectors like `p > a`).
         "space-before-combinator": " ",
-
-        // Set space before `{`.
         "space-before-opening-brace": " ",
-
-        // Set space before selector delimiter.
         "space-before-selector-delimiter": "",
-
-        // Set space between declarations (i.e. `color: tomato`).
         "space-between-declarations": "\n",
-
-        // Whether to trim trailing spaces.
         "strip-spaces": true,
-
-        // Set tab size (number of spaces to replace hard tabs).
-        "tab-size": 4,
-
-        // Whether to remove units in zero-valued dimensions.
+        "tab-size": 2,
         "unitless-zero": true,
-
-        // Whether to align prefixes in properties and values.
         "vendor-prefix-align": true,
-
-        // Sort properties in particular order.
-        "sort-order": [
+        "sort-order": [ 
             "position",
             "z-index",
             "top",
