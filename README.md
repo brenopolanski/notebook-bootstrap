@@ -29,6 +29,7 @@ My Personal SETUP
 * Install Ghostscript `sudo apt-get install ghostscript`
 * Install Vim `sudo apt-get install vim`
 * Install Maven `sudo apt-get install maven`
+* Install Balsamiq Mockups in Fedora [[Link 1](https://wiki.winehq.org/Fedora)] [[Link 2](http://www.if-not-true-then-false.com/2010/install-adobe-flash-player-10-on-fedora-centos-red-hat-rhel/)]
 * Install Zsh `sudo dnf install zsh`
   - `sudo sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
   - Theme Bullet Train [[Download](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)]
