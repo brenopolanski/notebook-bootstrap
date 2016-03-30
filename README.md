@@ -78,6 +78,7 @@ My Personal SETUP
 * PlainTasks [[Download](https://github.com/aziz/PlainTasks)]
 * Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
 * GitGutter [[Download](https://github.com/jisaacks/GitGutter)]
+* FileDiffs [[Download](https://github.com/colinta/SublimeFileDiffs)]
 
 ### Chrome application and extension
 
