@@ -43,6 +43,7 @@ My Personal SETUP
 * Install Ruby `sudo apt-get install ruby-full`
   - As of writing, the ruby-full package provides Ruby 1.9.3, which is an old stable release, on Debian and Ubuntu.
 * Install Jekyll `sudo gem install jekyll`
+* Install Shutter `sudo dnf install shutter`
 * Install Simple Screen Recorder [[Download](http://www.webupd8.org/2013/06/simplescreenrecorder-powerful-screen.html)]
   - Install in Fedora 23 [[Link 1](https://www.youtube.com/watch?v=Ysabg4ljW70)] [[Link 2](https://www.youtube.com/watch?v=Ysabg4ljW70)] [[Link 3](https://github.com/MaartenBaert/ssr)] [[Link 4](https://www.edivaldobrito.com.br/ffmpeg-no-debian-ubuntu-e-fedora/)]
 * gPodder Podcast Client [[Download](https://apps.ubuntu.com/cat/applications/precise/gpodder/)]
