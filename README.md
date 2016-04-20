@@ -80,6 +80,7 @@ My Personal SETUP
 * Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
 * GitGutter [[Download](https://github.com/jisaacks/GitGutter)]
 * FileDiffs [[Download](https://github.com/colinta/SublimeFileDiffs)]
+* Underscore.js Snippets for Sublime Text 2/3 [[Download](https://github.com/AntouanK/sublime-underscorejs-snippets)]
 
 ### Chrome application and extension
 
