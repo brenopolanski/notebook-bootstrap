@@ -100,6 +100,7 @@ My Personal SETUP
 * Merge Windows [[Download](https://chrome.google.com/webstore/detail/merge-windows/kbpinmnkhfkoidiinmapkhifnfoiklkb?utm_source=chrome-ntp-icon)]
 * GitHub Linker [[Download](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)]
 * React Developer Tools [[Download](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)]
+* Form Save And Restore [[Download](https://chrome.google.com/webstore/detail/form-save-and-restore/jknhanfpdjpnkfjjkpofcpegcbhpigcd)]
 
 ### LibreOffice extension
 * Code Colorizer Formatter [[Download](http://extensions.libreoffice.org/extension-center/code-colorizer-formatter)]
