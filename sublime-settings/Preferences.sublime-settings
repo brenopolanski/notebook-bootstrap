@@ -1,24 +1,24 @@
 {
- "binary_file_patterns":
-  [
-    "*.jpg",
-    "*.jpeg",
-    "*.png",
-    "*.gif",
-    "*.ttf",
-    "*.tga",
-    "*.dds",
-    "*.ico",
-    "*.eot",
-    "*.pdf",
-    "*.swf",
-    "*.jar",
-    "*.zip",
-    "node_modules/**",
-    "bower_components/**",
-    "dist/**"
-  ],
-  "color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/**",
+		"bower_components/**",
+		"dist/**"
+	],
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"font_size": 9,
 	"ignored_packages":
 	[
@@ -26,5 +26,6 @@
 	],
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
