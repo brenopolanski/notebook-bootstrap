@@ -81,6 +81,7 @@ My Personal SETUP
 * GitGutter [[Download](https://github.com/jisaacks/GitGutter)]
 * FileDiffs [[Download](https://github.com/colinta/SublimeFileDiffs)]
 * Underscore.js Snippets for Sublime Text 2/3 [[Download](https://github.com/AntouanK/sublime-underscorejs-snippets)]
+* Stylus Clean Completions [[Download](https://github.com/lnikell/stylus-clean-completions)]
 
 ### Chrome application and extension
 
