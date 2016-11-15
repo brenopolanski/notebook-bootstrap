@@ -48,6 +48,7 @@ My Personal SETUP
   - Install in Fedora 23 [[Link 1](https://www.youtube.com/watch?v=Ysabg4ljW70)] [[Link 2](https://www.youtube.com/watch?v=Ysabg4ljW70)] [[Link 3](https://github.com/MaartenBaert/ssr)] [[Link 4](https://www.edivaldobrito.com.br/ffmpeg-no-debian-ubuntu-e-fedora/)]
 * gPodder Podcast Client [[Download](https://apps.ubuntu.com/cat/applications/precise/gpodder/)]
 * Install Fuck You [[Download](https://github.com/robotlolita/fuck-you)] or `sudo npm install -g fuck-you`
+* Install Create React App `npm install -g create-react-app`
 * Install XAMPP [[Download](https://www.apachefriends.org/pt_br/download.html)] [[How do I install XAMPP?](https://www.apachefriends.org/faq_linux.html)]
 * Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
   - Add permission in file: `chmod 400 ~/.ssh/id_rsa`
