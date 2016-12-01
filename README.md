@@ -14,6 +14,7 @@ My Personal SETUP
   - Enterprise Linux and Fedora [[Download](https://nodejs.org/en/download/package-manager/#enterprise-linux-and-fedora)]
 * Install NPM `sudo apt-get install npm`
   - To upgrade, run: `sudo npm install npm@latest -g`
+* Install Yarn `sudo npm install -g yarn`
 * Install GruntJS `sudo npm install -g grunt-cli`
 * Install Gulp `sudo npm install -g gulp`
 * Install Gulp `sudo npm install -g webpack`
