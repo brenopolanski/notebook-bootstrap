@@ -16,6 +16,7 @@ My Personal SETUP
 * Install NPM `sudo apt-get install npm`
   - To upgrade, run: `sudo npm install npm@latest -g`
 * Install Yarn `sudo npm install -g yarn`
+  - https://yarnpkg.com/en/docs/install
 * Install GruntJS `sudo npm install -g grunt-cli`
 * Install Gulp `sudo npm install -g gulp`
 * Install Gulp `sudo npm install -g webpack`
