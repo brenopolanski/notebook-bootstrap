@@ -12,6 +12,7 @@ My Personal SETUP
 * Install NodeJS [[Download](http://nodejs.org/download/)] or `sudo apt-get install nodejs`
 * Install NodeJS Legacy `sudo apt-get install nodejs-legacy`
   - Enterprise Linux and Fedora [[Download](https://nodejs.org/en/download/package-manager/#enterprise-linux-and-fedora)]
+  - [NodeSource Node.js and io.js Binary Distributions](https://github.com/nodesource/distributions)
 * Install NPM `sudo apt-get install npm`
   - To upgrade, run: `sudo npm install npm@latest -g`
 * Install Yarn `sudo npm install -g yarn`
