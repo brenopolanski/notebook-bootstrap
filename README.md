@@ -2,74 +2,29 @@
 
 My Personal SETUP
 
-## Installations
+## Preview:
 
-### Essencial
+![demo](demo.png)
 
-* Fedora Newest version installed? Check for update
-* Install Git `sudo apt-get install git`
-* Install gitk `sudo apt-get install gitk`
-* Install NodeJS [[Download](http://nodejs.org/download/)] or `sudo apt-get install nodejs`
-* Install NodeJS Legacy `sudo apt-get install nodejs-legacy`
-  - Enterprise Linux and Fedora [[Download](https://nodejs.org/en/download/package-manager/#enterprise-linux-and-fedora)]
-  - [NodeSource Node.js and io.js Binary Distributions](https://github.com/nodesource/distributions)
-* Install NPM `sudo apt-get install npm`
-  - To upgrade, run: `sudo npm install npm@latest -g`
-* Install Yarn `sudo npm install -g yarn`
-  - https://yarnpkg.com/en/docs/install
-* Install GruntJS `sudo npm install -g grunt-cli`
-* Install Gulp `sudo npm install -g gulp`
-* Install Gulp `sudo npm install -g webpack`
-* Install Bower `sudo npm install -g bower`
-* Install Express `sudo npm install -g express`
-* Install Express Generator `sudo npm install -g express-generator`
-* Install nodemon `sudo npm install -g nodemon`
-* Install CSScomb `sudo npm install -g csscomb`
-* Install YUIDoc `sudo npm install -g yuidocjs`
-* Install Node Webkit Builder `sudo npm install -g node-webkit-builder`
-* Install Stylus `sudo npm install -g stylus`
-* Install Watchy `sudo npm install -g watchy`
-* Install Ghostscript `sudo apt-get install ghostscript`
-* Install Vim `sudo apt-get install vim`
-* Install Maven `sudo apt-get install maven`
-* Install Balsamiq Mockups in Fedora [[Link 1](https://wiki.winehq.org/Fedora)] [[Link 2](http://www.if-not-true-then-false.com/2010/install-adobe-flash-player-10-on-fedora-centos-red-hat-rhel/)]
-* Install Zsh `sudo dnf install zsh`
-  - `sudo sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-  - Theme Bullet Train [[Download](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)]
-  - Powerline fonts [[Download](https://github.com/powerline/fonts)]
-* Install MongoDB [[Download](https://gist.github.com/brenopolanski/861971f972b4c4f11443)]
-* Install youtube-dl-mp3 `sudo apt-get install youtube-dl wget ffmpeg lame`
-  - Installation youtube-dl-mp3 [[Download](https://github.com/jweslley/youtube-dl-mp3#installation)]
-  - FFMPEG no Ubuntu 14.04 64 bits [[Download](https://gist.github.com/brenopolanski/5676b8d50c62b1630d38)] 
-* Install Tree `sudo apt-get install tree`
-  - Creating a file TXT: `tree > tree.txt`
-* Install Ruby `sudo apt-get install ruby-full`
-  - As of writing, the ruby-full package provides Ruby 1.9.3, which is an old stable release, on Debian and Ubuntu.
-* Install Jekyll `sudo gem install jekyll`
-* Install Shutter `sudo dnf install shutter`
-* Install Simple Screen Recorder [[Download](http://www.webupd8.org/2013/06/simplescreenrecorder-powerful-screen.html)]
-  - Install in Fedora 23 [[Link 1](https://www.youtube.com/watch?v=Ysabg4ljW70)] [[Link 2](https://www.youtube.com/watch?v=Ysabg4ljW70)] [[Link 3](https://github.com/MaartenBaert/ssr)] [[Link 4](https://www.edivaldobrito.com.br/ffmpeg-no-debian-ubuntu-e-fedora/)]
-* gPodder Podcast Client [[Download](https://apps.ubuntu.com/cat/applications/precise/gpodder/)]
-* Install Fuck You [[Download](https://github.com/robotlolita/fuck-you)] or `sudo npm install -g fuck-you`
-* Install Create React App `npm install -g create-react-app`
-* Install XAMPP [[Download](https://www.apachefriends.org/pt_br/download.html)] [[How do I install XAMPP?](https://www.apachefriends.org/faq_linux.html)]
-* Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
-  - Add permission in file: `chmod 400 ~/.ssh/id_rsa`
-  - Test the connection: `ssh -T git@github.com`
-  - Setting your username in Git [[Link](https://help.github.com/articles/setting-your-username-in-git/)]
-  - Setting your email in Git [[Link](https://help.github.com/articles/setting-your-email-in-git/)]
+## List of applications
 
-### Other Applications
+[View application list](https://github.com/brenopolanski/notebook-bootstrap/blob/master/APPLICATIONS.md)
 
-* Install Sublime Text 3 [[Download](http://www.sublimetext.com/3)]
-* Install Sublime Text 3 (x64) on Fedora [[Download](http://www.simonewebdesign.it/install-sublime-text-3-on-fedora-20/)]
-  - Install package control [[Download](https://sublime.wbond.net/installation#st3)]
-* Install Atom [[Download](https://gist.github.com/brenopolanski/35b8223d5297e11e1afc)] - (optional)
-* Install Indicator Synapse [[Download](https://gist.github.com/brenopolanski/cb56125da4fede7a8abf)] - (optional)
-* Install Google Chrome [[Download](https://www.google.com.br/chrome/index.html?hl=pt-BR&brand=CHNG&utm_source=pt-BR-hpp&utm_medium=hpp&utm_campaign=pt-BR)]
-* Install Gnome Shell [[Download](https://gist.github.com/brenopolanski/2b0596c05d9cf6efc37d)]
-* Install Play on Linux - (optional) `sudo apt-get install playonlinux`
-* Install Kdenlive [[Download](https://kdenlive.org/download-ubuntu)]
+## Installation
+
+1. Clone this repository:
+
+    git clone git@github.com:brenopolanski/notebook-bootstrap.git
+
+2. Access the directory and add the execute permission through the command below:
+
+    sudo chmod +x install.sh
+
+3. Run the file:
+
+    ./install.sh
+
+## Other Applications
 
 ### Sublime Packages and Snippets
 
@@ -108,7 +63,16 @@ My Personal SETUP
 * Redux DevTools [[Download](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=en-US)]
 * Form Save And Restore [[Download](https://chrome.google.com/webstore/detail/form-save-and-restore/jknhanfpdjpnkfjjkpofcpegcbhpigcd)]
 
-### LibreOffice extension
-* Code Colorizer Formatter [[Download](http://extensions.libreoffice.org/extension-center/code-colorizer-formatter)]
-* CoGrOO [[Download](http://cogroo.sourceforge.net/download/current.html)]
-  - `sudo apt-get install libreoffice-java-common default-jre`
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -m "Add some feature"`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request  :)
+
+English is the universal language nowadays, so please don't create or comment on issues using another language.
+
+## License
+
+[MIT License](http://brenopolanski.mit-license.org/) © Breno Polanski
