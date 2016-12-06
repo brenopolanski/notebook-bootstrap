@@ -14,15 +14,41 @@ My Personal SETUP
 
 1. Clone this repository:
 
+    ```sh
     git clone git@github.com:brenopolanski/notebook-bootstrap.git
+    ```
 
 2. Access the directory and add the execute permission through the command below:
 
+    ```sh
     sudo chmod +x install.sh
+    ```
 
 3. Run the file:
 
+    ```sh
     ./install.sh
+    ```
+
+## After Install
+
+### Configure Git
+
+- Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
+  * Add permission in file: `chmod 400 ~/.ssh/id_rsa`
+  * Test the connection: `ssh -T git@github.com`
+  * Setting your username in Git [[Link](https://help.github.com/articles/setting-your-username-in-git/)]
+  * Setting your email in Git [[Link](https://help.github.com/articles/setting-your-email-in-git/)]
+
+### Configure Sublime Text 3
+
+- Install package control [[Download](https://sublime.wbond.net/installation#st3)]
+
+### Configure OH My ZSH
+
+- Theme Bullet Train [[Download](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)]
+- Powerline fonts [[Download](https://github.com/powerline/fonts)]
+  - Create a folder `powerline` on `/usr/share/fonts/opentype` and copy the `Inconsolata for Powerline.otf` in this folder
 
 ## Other Applications
 
@@ -30,17 +56,15 @@ My Personal SETUP
 
 #### Packages
 
-- Sublime Text 2/3 Markdown Preview [[Download](https://github.com/revolunet/sublimetext-markdown-preview)]
 - Color Highlighter [[Download](https://github.com/Monnoroch/ColorHighlighter)]
 - CSS comments [[Download](https://github.com/brenopolanski/css-comments-sublime-snippets)]
 - JavaScript and CoffeeScript Console snippets [[Download](https://github.com/caiogondim/js-console-sublime-snippets)]
 - CSScomb for Sublime Text [[Download](https://github.com/csscomb/sublime-csscomb)]
-- PlainTasks [[Download](https://github.com/aziz/PlainTasks)]
-- Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
 - GitGutter [[Download](https://github.com/jisaacks/GitGutter)]
 - FileDiffs [[Download](https://github.com/colinta/SublimeFileDiffs)]
 - Underscore.js Snippets for Sublime Text 2/3 [[Download](https://github.com/AntouanK/sublime-underscorejs-snippets)]
 - Stylus Clean Completions [[Download](https://github.com/lnikell/stylus-clean-completions)]
+- Emmet [[Download](https://github.com/sergeche/emmet-sublime)]
 
 ### Chrome application and extension
 
@@ -62,25 +86,6 @@ My Personal SETUP
 - React Developer Tools [[Download](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)]
 - Redux DevTools [[Download](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=en-US)]
 - Form Save And Restore [[Download](https://chrome.google.com/webstore/detail/form-save-and-restore/jknhanfpdjpnkfjjkpofcpegcbhpigcd)]
-
-## After Install
-
-### Configure Git
-
-- Copy .ssh folder of OneDrive for computer (path: ~/.ssh/)
-  * Add permission in file: `chmod 400 ~/.ssh/id_rsa`
-  * Test the connection: `ssh -T git@github.com`
-  * Setting your username in Git [[Link](https://help.github.com/articles/setting-your-username-in-git/)]
-  * Setting your email in Git [[Link](https://help.github.com/articles/setting-your-email-in-git/)]
-
-### Configure Sublime Text
-
-- Install package control [[Download](https://sublime.wbond.net/installation#st3)]
-
-### Configure OH My ZSH
-
-- Theme Bullet Train [[Download](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)]
-- Powerline fonts [[Download](https://github.com/powerline/fonts)]
 
 ## Contributing
 
