@@ -34,6 +34,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "26" "Unity Tweak Tool" ""\
   FALSE "27" "Heroku Toolbelt" ""\
   FALSE "28" "Dropbox" ""\
+  FALSE "29" "Franz" "Free messaging app"\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -180,6 +181,15 @@ fi
 
 if [[ $answer =~ "28" ]]; then
 	sudo apt-get install -y nautilus-dropbox
+fi
+
+if [[ $answer =~ "29" ]]; then
+  wget https://github.com/meetfranz/franz-app/releases/download/4.0.4/Franz-linux-x64-4.0.4.tgz -O franz.tgz
+  sudo mkdir /opt/franz
+  sudo tar -vzxf franz.tgz -C /opt/franz/
+  sudo ln -sf /opt/franz/Franz /usr/bin/franz
+  echo -e '[Desktop Entry]\n Version=1.0\n Name=franz\n Exec=/opt/franz/Franz\n Icon=/opt/franz/resources/app.asar.unpacked/assets/franz.png\n Type=Application\n Categories=Application' | sudo tee /usr/share/applications/franz.desktop
+  sudo rm -R franz.tgz
 fi
 
 # Clean up
