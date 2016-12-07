@@ -65,6 +65,7 @@ My Personal SETUP
 - Underscore.js Snippets for Sublime Text 2/3 [[Download](https://github.com/AntouanK/sublime-underscorejs-snippets)]
 - Stylus Clean Completions [[Download](https://github.com/lnikell/stylus-clean-completions)]
 - Emmet [[Download](https://github.com/sergeche/emmet-sublime)]
+- Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
 
 ### Chrome application and extension
 

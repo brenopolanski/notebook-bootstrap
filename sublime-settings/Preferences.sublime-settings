@@ -18,6 +18,8 @@
 		"bower_components/**",
 		"dist/**"
 	],
+	"theme": "Cobalt2.sublime-theme",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"font_size": 9,
 	"ignored_packages":
 	[
