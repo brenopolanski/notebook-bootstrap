@@ -36,9 +36,6 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "28" "Dropbox" ""\
   --separator=":" --width=750 --height=700)
 
-# Update
-sudo apt-get update
-
 if [[ $answer =~ "1" ]]; then
   sudo apt-get -y install ubuntu-restricted-extras
 fi
