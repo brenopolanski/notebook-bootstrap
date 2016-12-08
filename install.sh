@@ -35,6 +35,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "27" "Heroku Toolbelt" ""\
   FALSE "28" "Dropbox" ""\
   FALSE "29" "Franz" "Free messaging app"\
+  FALSE "30" "npm-check-updates" ""\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -190,6 +191,10 @@ if [[ $answer =~ "29" ]]; then
   sudo ln -sf /opt/franz/Franz /usr/bin/franz
   echo -e '[Desktop Entry]\n Version=1.0\n Name=franz\n Exec=/opt/franz/Franz\n Icon=/opt/franz/resources/app.asar.unpacked/assets/franz.png\n Type=Application\n Categories=Application' | sudo tee /usr/share/applications/franz.desktop
   sudo rm -R franz.tgz
+fi
+
+if [[ $answer =~ "30" ]]; then
+  sudo npm install -g npm-check-updates
 fi
 
 # Clean up
