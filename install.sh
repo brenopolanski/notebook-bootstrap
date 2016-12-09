@@ -86,6 +86,7 @@ if [[ $answer =~ "9" ]]; then
   # fix to not need to run sudo
   echo prefix = ~/.node >> ~/.npmrc
   echo 'export PATH=$HOME/.node/bin:$PATH' >> ~/.bashrc
+  echo 'export PATH=$HOME/.node/bin:$PATH' >> ~/.zshrc
 fi
 
 if [[ $answer =~ "10" ]]; then
