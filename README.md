@@ -67,6 +67,7 @@ My Personal SETUP
 - Stylus Package for Sublime Text 2/3 [[Download](https://github.com/billymoon/Stylus)]
 - Emmet [[Download](https://github.com/sergeche/emmet-sublime)]
 - Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
+- Babel Sublime [[Download](https://github.com/babel/babel-sublime)]
 
 ### Chrome application and extension
 
