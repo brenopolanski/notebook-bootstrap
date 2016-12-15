@@ -36,6 +36,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "28" "Dropbox" ""\
   FALSE "29" "Franz" "Free messaging app"\
   FALSE "30" "npm-check-updates" ""\
+  FALSE "31" "Spotify" ""\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -196,6 +197,13 @@ fi
 
 if [[ $answer =~ "30" ]]; then
   sudo npm install -g npm-check-updates
+fi
+
+if [[ $answer =~ "31" ]]; then
+  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D2C19886
+  echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
+  sudo apt-get update
+  sudo apt-get install -y spotify-client
 fi
 
 # Clean up
