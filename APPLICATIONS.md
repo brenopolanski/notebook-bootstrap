@@ -28,3 +28,7 @@
 1. Unity Tweak Tool
 1. Heroku Toolbelt
 1. Dropbox
+1. Franz
+1. npm-check-updates
+1. Spotify
+1. FFmpeg
