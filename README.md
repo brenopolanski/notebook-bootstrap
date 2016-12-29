@@ -69,6 +69,7 @@ My Personal SETUP
 - Theme Cobalt 2 [[Download](https://github.com/wesbos/cobalt2)]
 - Babel Sublime [[Download](https://github.com/babel/babel-sublime)]
 - SublimeLinter3 [[Download](https://github.com/SublimeLinter/SublimeLinter3)]
+- SublimeLinter-pep8 [[Download](https://github.com/SublimeLinter/SublimeLinter-pep8)]
 
 ### Chrome application and extension
 
