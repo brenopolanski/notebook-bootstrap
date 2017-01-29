@@ -119,8 +119,12 @@ if [[ $answer =~ "15" ]]; then
   sudo apt-get -y install oracle-java7-installer
   sudo update-java-alternatives -s java-7-oracle
   sudo apt-get -y install oracle-java7-set-default
+  # install oracle java 8
+  sudo apt-get -y install oracle-java8-installer
+  sudo update-java-alternatives -s java-8-oracle
+  sudo apt-get -y install oracle-java8-set-default
   # remove openjdk
-  sudo apt-get -y purge openjdk-7-jre openjdk-7-jre-lib openjdk-7-jre-headless
+  sudo apt-get -y purge openjdk-7-jre openjdk-7-jre-lib openjdk-7-jre-headless openjdk-8-jre openjdk-8-jre-lib openjdk-8-jre-headless
 fi
 
 if [[ $answer =~ "16" ]]; then
