@@ -38,6 +38,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "30" "npm-check-updates" ""\
   FALSE "31" "Spotify" ""\
   FALSE "32" "FFmpeg" ""\
+  FALSE "33" "Ruby" ""\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -217,6 +218,10 @@ if [[ $answer =~ "32" ]]; then
   sudo add-apt-repository ppa:kirillshkrogalev/ffmpeg-next
   sudo apt-get update
   sudo apt-get install -y ffmpeg
+fi
+
+if [[ $resposta =~ "33" ]]; then
+  sudo apt-get install -y ruby-full
 fi
 
 # Clean up

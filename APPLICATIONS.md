@@ -32,3 +32,4 @@
 1. npm-check-updates
 1. Spotify
 1. FFmpeg
+1. Ruby
