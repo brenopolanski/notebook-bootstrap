@@ -226,7 +226,7 @@ if [[ $resposta =~ "33" ]]; then
 fi
 
 if [[ $resposta =~ "34" ]]; then
-  sudo apt-get install -y postgresql
+  sudo apt-get install -y postgresql postgresql-contrib pgadmin3
 fi
 
 # Clean up
