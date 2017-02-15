@@ -39,6 +39,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "31" "Spotify" ""\
   FALSE "32" "FFmpeg" ""\
   FALSE "33" "Ruby" ""\
+  FALSE "34" "PostgreSQL" ""\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -222,6 +223,10 @@ fi
 
 if [[ $resposta =~ "33" ]]; then
   sudo apt-get install -y ruby-full
+fi
+
+if [[ $resposta =~ "34" ]]; then
+  sudo apt-get install -y postgresql-9.4
 fi
 
 # Clean up
