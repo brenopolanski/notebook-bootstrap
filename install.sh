@@ -226,7 +226,7 @@ if [[ $resposta =~ "33" ]]; then
 fi
 
 if [[ $resposta =~ "34" ]]; then
-  sudo apt-get install -y postgresql-9.4
+  sudo apt-get install -y postgresql
 fi
 
 # Clean up
