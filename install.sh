@@ -40,6 +40,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "32" "FFmpeg" ""\
   FALSE "33" "Ruby" ""\
   FALSE "34" "PostgreSQL" ""\
+  FALSE "35" "ADB" "Android Debug Bridge"\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -227,6 +228,10 @@ fi
 
 if [[ $resposta =~ "34" ]]; then
   sudo apt-get install -y postgresql postgresql-client postgresql-contrib libpq-dev pgadmin3
+fi
+
+if [[ $resposta =~ "35" ]]; then
+  sudo apt-get install -y adb
 fi
 
 # Clean up
