@@ -41,6 +41,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "33" "Ruby" ""\
   FALSE "34" "PostgreSQL" ""\
   FALSE "35" "ADB" "Android Debug Bridge"\
+  FALSE "36" "UnCSS" "Remove unused styles from CSS"\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -222,16 +223,20 @@ if [[ $answer =~ "32" ]]; then
   sudo apt-get install -y ffmpeg
 fi
 
-if [[ $resposta =~ "33" ]]; then
+if [[ $answer =~ "33" ]]; then
   sudo apt-get install -y ruby-full
 fi
 
-if [[ $resposta =~ "34" ]]; then
+if [[ $answer =~ "34" ]]; then
   sudo apt-get install -y postgresql postgresql-client postgresql-contrib libpq-dev pgadmin3
 fi
 
-if [[ $resposta =~ "35" ]]; then
+if [[ $answer =~ "35" ]]; then
   sudo apt-get install -y adb
+fi
+
+if [[ $answer =~ "36" ]]; then
+  sudo npm install -g uncss
 fi
 
 # Clean up

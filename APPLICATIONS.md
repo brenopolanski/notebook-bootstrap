@@ -34,3 +34,5 @@
 1. FFmpeg
 1. Ruby
 1. PostgreSQL
+1. Android Debug Bridge
+1. UnCSS
