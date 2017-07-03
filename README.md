@@ -88,6 +88,7 @@ My Personal SETUP
 - Redux DevTools [[Download](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=en-US)]
 - Form Save And Restore [[Download](https://chrome.google.com/webstore/detail/form-save-and-restore/jknhanfpdjpnkfjjkpofcpegcbhpigcd)]
 - Translate selection [[Download](https://chrome.google.com/webstore/detail/translate-selection/enljpjkjokokeigijfbogchbcfnkleak?utm_source=chrome-ntp-icon)]
+- OneTab [[Download](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)]
 
 ## Contributing
 
