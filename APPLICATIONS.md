@@ -36,3 +36,4 @@
 1. PostgreSQL
 1. Android Debug Bridge
 1. UnCSS
+1. XAMPP Apache + MariaDB + PHP + Perl

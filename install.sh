@@ -42,6 +42,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "34" "PostgreSQL" ""\
   FALSE "35" "ADB" "Android Debug Bridge"\
   FALSE "36" "UnCSS" "Remove unused styles from CSS"\
+  FALSE "37" "XAMPP" "XAMPP Apache + MariaDB + PHP + Perl"\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -237,6 +238,12 @@ fi
 
 if [[ $answer =~ "36" ]]; then
   sudo npm install -g uncss
+fi
+
+if [[ $answer =~ "37" ]]; then
+  wget https://www.apachefriends.org/xampp-files/7.1.6/xampp-linux-x64-7.1.6-0-installer.run -O xampp-installer.run
+  chmod +x xampp-installer.run
+  sudo ./xampp-installer.run
 fi
 
 # Clean up
