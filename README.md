@@ -89,7 +89,6 @@ My Personal SETUP
 - Form Save And Restore [[Download](https://chrome.google.com/webstore/detail/form-save-and-restore/jknhanfpdjpnkfjjkpofcpegcbhpigcd)]
 - Translate selection [[Download](https://chrome.google.com/webstore/detail/translate-selection/enljpjkjokokeigijfbogchbcfnkleak?utm_source=chrome-ntp-icon)]
 - OneTab [[Download](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)]
-- Bookmark Manager [[Download](https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik)]
 
 ## Contributing
 
