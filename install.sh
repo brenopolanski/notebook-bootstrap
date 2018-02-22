@@ -44,6 +44,7 @@ answer=$(zenity  --list  --text "Choose the packages you want to install." --che
   FALSE "36" "UnCSS" "Remove unused styles from CSS"\
   FALSE "37" "XAMPP" "XAMPP Apache + MariaDB + PHP + Perl"\
   FALSE "38" "CopyQ" "Clipboard Manager with Advanced Features"\
+  FALSE "39" "htop" "An interactive process viewer for Unix"\
   --separator=":" --width=750 --height=700)
 
 if [[ $answer =~ "1" ]]; then
@@ -252,6 +253,10 @@ if [[ $answer =~ "38" ]]; then
   sudo add-apt-repository ppa:hluk/copyq
   sudo apt-get update
   sudo apt-get install -y copyq
+fi
+
+if [[ $answer =~ "39" ]]; then
+  sudo apt-get install -y htop
 fi
 
 # Clean up
