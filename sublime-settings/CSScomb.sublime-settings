@@ -12,7 +12,7 @@
         "color-shorthand": true,
         "element-case": "lower",
         "eof-newline": true,
-        "leading-zero": false,
+        "leading-zero": true,
         "quotes": "double",
         "remove-empty-rulesets": true,
         "space-after-colon": " ",
@@ -29,7 +29,7 @@
         "tab-size": 2,
         "unitless-zero": true,
         "vendor-prefix-align": true,
-        "sort-order": [ 
+        "sort-order": [
             "position",
             "z-index",
             "top",
