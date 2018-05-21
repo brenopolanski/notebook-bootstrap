@@ -13,7 +13,7 @@
         "element-case": "lower",
         "eof-newline": true,
         "leading-zero": true,
-        "quotes": "double",
+        "quotes": "single",
         "remove-empty-rulesets": true,
         "space-after-colon": " ",
         "space-after-combinator": " ",
@@ -52,6 +52,9 @@
             "flex-order",
             "flex-pack",
             "flex-align",
+            "flex-grow",
+            "align-items",
+            "justify-content",
 
             "-webkit-box-sizing",
             "-moz-box-sizing",
