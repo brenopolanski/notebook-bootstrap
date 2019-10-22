@@ -18,6 +18,17 @@
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+    {
+      "language": "javascriptreact",
+      "autoFix": true
+    }
+  ],
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "javascript.updateImportsOnFileMove.enabled": "never",
