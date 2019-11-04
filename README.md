@@ -90,6 +90,7 @@ My Personal SETUP
 - Translate selection [[Download](https://chrome.google.com/webstore/detail/translate-selection/enljpjkjokokeigijfbogchbcfnkleak?utm_source=chrome-ntp-icon)]
 - OneTab [[Download](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)]
 - JSON Viewer [[Download](https://chrome.google.com/webstore/search/json%20viewer?utm_source=chrome-ntp-icon)]
+- Wappalyzer [[Download](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon)]
 
 ### Google Sheets add-on
 
