@@ -52,8 +52,8 @@ My Personal SETUP
   
 ### Install Java
 
-- [How To Install Java with `apt` on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04)
-- [How to change the default Java version on Ubuntu](https://attacomsian.com/blog/change-default-java-version-ubuntu)
+- How To Install Java with `apt` on Ubuntu 18.04 [[Link](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04)]
+- How to change the default Java version on Ubuntu [[Link](https://attacomsian.com/blog/change-default-java-version-ubuntu)]
 
 ## Other Applications
 
