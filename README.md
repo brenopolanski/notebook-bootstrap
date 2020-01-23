@@ -49,11 +49,45 @@ My Personal SETUP
 - Theme Bullet Train [[Download](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)]
 - Powerline fonts [[Download](https://github.com/powerline/fonts)]
   - Create a folder `powerline` on `/usr/share/fonts/opentype` and copy the `Inconsolata for Powerline.otf` in this folder
-  
+
 ### Install Java
 
 - How To Install Java with `apt` on Ubuntu 18.04 [[Link](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04)]
 - How to change the default Java version on Ubuntu [[Link](https://attacomsian.com/blog/change-default-java-version-ubuntu)]
+
+### Install Balsamiq Mockups 3
+
+```
+# 1. Install wine
+sudo apt install wine-stable winetricks
+
+# 2. Download the 'With Adobe Air bundled (for offline installation)'
+#   from the baslamiq website. Currently it is Balsamiq_Mockups_3.5.17_bundled.zip
+#   and install it in /opt
+
+pushd /opt
+sudo unzip ~/Downloads/Balsamiq_Mockups_3.5.17_bundled.zip
+sudo ln -s Balsamiq_Mockups_3 balsamiq_3_5_17
+sudo ln -s Balsamiq_Mockups_3 balsamiq
+pushd /opt/balsamiq
+sudo ln -s 'Balsamiq Mockups 3.exe' balsamiq.exe
+popd && popd
+
+# 3. Run balsamiq
+
+wine /opt/balsamiq/balsamiq.exe
+
+# 4. Create desktop file so the app may be access from K-menu
+echo '[Desktop Entry]
+Encoding=UTF-8
+Name=Balsamiq Mockups
+Icon=/opt/balsamiq/icons/mockups_ico_48.png
+Exec=wine ""/opt/balsamiq/Balsamiq Mockups 3.exe""
+Type=Application
+Categories=Graphics;
+MimeType=application/x-xdg-protocol-tg;x-scheme-handler/tg;g;' \
+  | sudo tee /usr/share/applications/balsamiq.desktop
+```
 
 ## Other Applications
 
