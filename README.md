@@ -135,3 +135,7 @@ MimeType=application/x-xdg-protocol-tg;x-scheme-handler/tg;g;' \
 ### Google Sheets add-on
 
 - ProjectSheet planning [[Download](https://chrome.google.com/webstore/detail/projectsheet-planning/ejljeigigmpdnoohkmbpbgdgmgffjahc)]
+
+## Drivers
+
+- Epson EcoTank L3150 [[Download](http://download.ebz.epson.net/dsc/du/02/DriverDownloadInfo.do?LG2=EN&CN2=&DSCMI=104918&DSCCHK=f4af1a8de19da08e2e1da28e9fbddefc949c9eed)]
