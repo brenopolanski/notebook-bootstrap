@@ -19,7 +19,7 @@
 		"dist/**"
 	],
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-	"folder_exclude_patterns": ["node_modules"],
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
 	"font_size": 9,
 	"ignored_packages":
 	[
