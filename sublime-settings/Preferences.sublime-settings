@@ -18,14 +18,15 @@
 		"bower_components/**",
 		"dist/**"
 	],
-	"theme": "Cobalt2.sublime-theme",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"folder_exclude_patterns": ["node_modules"],
 	"font_size": 9,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
